@@ -1,0 +1,23 @@
+{
+  "name": "spark-wiki-task-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuhk-lambda/spark-wiki-task-nodejs.git"
+  },
+  "author": "Outvi V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuhk-lambda/spark-wiki-task-nodejs/issues"
+  },
+  "homepage": "https://github.com/cuhk-lambda/spark-wiki-task-nodejs#readme",
+  "dependencies": {
+    "fast-xml-parser": "^3.12.16",
+    "he": "^1.2.0"
+  }
+}
